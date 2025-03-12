@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Sarah Dark.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning SQL and Python.
-- 📫 Reach me thorugh Linkedin: https://www.linkedin.com/in/sarah-dark-8a742b147/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a law Masters degree and I was living in China when Covid broke out.
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah Dark
 ==================================================================================================================================
 
@@ -16,6 +9,10 @@ Ive just finished a bootcamp with JustIT in Data Skills and i am looking into st
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [https://www.linkedin.com/in/sarah-dark-8a742b147/](mailto:https://www.linkedin.com/in/sarah-dark-8a742b147/)
 * 🧠  I'm learning SQL, Python, Tableau and Power BI
+* 👀 I’m interested in Data Analytics.
+* 📫 Reach me thorugh Linkedin: https://www.linkedin.com/in/sarah-dark-8a742b147/
+* 😄 Pronouns: She/Her
+* ⚡ Fun fact: I have a law Masters degree and I was living in China when Covid broke out.
 
 ### Skills
 
